@@ -48,7 +48,12 @@ Run `python main.py --help` to see all supported options.
 ## :file_folder: Folder Structure
 
 ```text
-csv-date-normalizer/\n├── main.py\n├── requirements.txt\n├── tests/test_core.py\n├── examples/dates.csv\n└── assets/illustration.svg
+csv-date-normalizer/
+├── main.py
+├── requirements.txt
+├── tests/test_core.py
+├── examples/dates.csv
+└── assets/illustration.svg
 ```
 
 ## :world_map: Roadmap
